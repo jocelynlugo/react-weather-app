@@ -33,10 +33,12 @@
   float: left !important;
 }
 
-.Weather img {
+.Weather canvas {
   height: 64px;
   margin: 10px auto;
   display: inline-block;
+  margin-top: 5px;
+  margin-right: 10px;
 }
 
 .Weather .temperature {
